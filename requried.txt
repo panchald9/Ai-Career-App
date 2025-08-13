@@ -1,0 +1,6 @@
+npm install 
+pip install flask flask_sqlalchemy flask-bcrypt flask-cors pyjwt python-dotenv google-generativeai PyMuPDF requests
+
+python app.py
+npm run dev
+
